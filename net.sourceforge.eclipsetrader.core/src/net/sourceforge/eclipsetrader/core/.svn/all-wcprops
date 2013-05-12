@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core
+END
+INewsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/INewsProvider.java
+END
+TradingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/TradingProvider.java
+END
+Sentiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/328/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/Sentiment.java
+END
+CorePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/CorePlugin.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/Messages.java
+END
+FeedMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/eclipsetrader/!svn/ver/355/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/FeedMonitor.java
+END
+ICollectionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ICollectionObserver.java
+END
+IFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/IFeed.java
+END
+ITradingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ITradingProvider.java
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/eclipsetrader/!svn/ver/532/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/Repository.java
+END
+IAccountProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/IAccountProvider.java
+END
+ObservableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/498/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ObservableList.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/messages.properties
+END
+CurrencyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/CurrencyConverter.java
+END
+FeedPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/FeedPlugin.java
+END
+Level2FeedMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/Level2FeedMonitor.java
+END
+IPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/eclipsetrader/!svn/ver/328/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/IPattern.java
+END
+ILevel2Feed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ILevel2Feed.java
+END
+IEditableLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/IEditableLabelProvider.java
+END
+IHistoryFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/IHistoryFeed.java
+END

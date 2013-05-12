@@ -1,0 +1,67 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.java.rome/src/com/sun/syndication/feed
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2008-03-04T11:14:38.534191Z
+740
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+atom
+dir
+
+impl
+dir
+
+module
+dir
+
+rss
+dir
+
+WireFeed.java
+file
+
+
+
+
+2008-06-21T10:44:23.046875Z
+7296725ba032c77f3c17ac8c08bc6d6a
+2008-03-04T11:14:38.534191Z
+740
+maccaf
+
+synd
+dir
+
+CopyFrom.java
+file
+
+
+
+
+2008-06-21T10:44:23.062500Z
+f672ea2040f3b2b510adc29a010f2af5
+2008-03-04T11:14:38.534191Z
+740
+maccaf
+

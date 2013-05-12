@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Entry.java
+END
+Feed.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Feed.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Generator.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Person.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Content.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Category.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/atom/Link.java
+END

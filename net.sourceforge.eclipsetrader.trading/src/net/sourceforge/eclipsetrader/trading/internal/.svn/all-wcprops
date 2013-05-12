@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal
+END
+BoxViewerThemePreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/228/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/BoxViewerThemePreview.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/112/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/DeleteAction.java
+END
+Trendbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/9/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/Trendbar.java
+END
+AbstractLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/256/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/AbstractLayout.java
+END
+OrdersCleanupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/OrdersCleanupJob.java
+END
+DeleteWatchlistItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/112/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/DeleteWatchlistItemAction.java
+END
+WatchlistPatternsSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/200/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/WatchlistPatternsSearchPage.java
+END
+SimpleAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/318/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/SimpleAccount.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/99/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/CopyAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/99/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/PasteAction.java
+END
+SecurityPatternsSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/eclipsetrader/!svn/ver/200/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/SecurityPatternsSearchPage.java
+END
+DeleteAccountAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/497/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/DeleteAccountAction.java
+END
+SimpleAccountProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/SimpleAccountProvider.java
+END
+CellTicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/469/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/CellTicker.java
+END
+TransactionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/122/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/TransactionAction.java
+END
+PatternsSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/423/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/PatternsSearchPage.java
+END
+ClosePositionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/122/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/ClosePositionAction.java
+END
+Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/370/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/Box.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/99/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/CutAction.java
+END
+TestProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/157/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/TestProgressBar.java
+END
+PropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/PropertiesAction.java
+END
+WatchlistTableViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/482/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/WatchlistTableViewer.java
+END
+TreeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/TreeLayout.java
+END
+WatchlistBoxViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/370/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/WatchlistBoxViewer.java
+END
+TableViewerThemePreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/228/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/TableViewerThemePreview.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/eclipsetrader/!svn/ver/514/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading
+END
+TradingSystemGroupSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/TradingSystemGroupSelection.java
+END
+DataCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/468/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/DataCollector.java
+END
+IOrdersLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/277/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/IOrdersLabelProvider.java
+END
+AlertPluginPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/AlertPluginPreferencePage.java
+END
+TradingSystemSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/TradingSystemSelection.java
+END
+WatchlistColumnSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/WatchlistColumnSelection.java
+END
+AlertPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/214/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/AlertPlugin.java
+END
+TradingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/325/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/TradingPlugin.java
+END
+WatchlistItemSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/9/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/WatchlistItemSelection.java
+END
+TradingSystemPluginPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/TradingSystemPluginPreferencePage.java
+END
+TradingSystemPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/157/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/TradingSystemPlugin.java
+END

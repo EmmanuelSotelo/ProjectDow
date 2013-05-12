@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors
+END
+ChartVisitorAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/ChartVisitorAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/package-tree.html
+END
+IChartVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/visitors/IChartVisitor.html
+END

@@ -1,0 +1,56 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.charts/icons
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-04-25T15:59:51.927607Z
+73
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+dlcl16
+dir
+
+elcl16
+dir
+
+eview16
+dir
+
+dtool16
+dir
+
+etool16
+dir
+
+blank.gif
+file
+
+
+
+
+2008-06-21T10:46:00.546875Z
+377058b768302462a7348edf12e4dd3e
+2006-04-13T10:09:18.334619Z
+11
+maccaf
+has-props
+

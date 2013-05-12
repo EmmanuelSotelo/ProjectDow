@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/messages.properties
+END
+SecurityPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/SecurityPage.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/Messages.java
+END
+SecurityWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/513/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/SecurityWizard.java
+END
+FrenchSecurityPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/FrenchSecurityPage.java
+END
+IndicesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/513/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/IndicesPage.java
+END
+ISecurityPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/39/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/ISecurityPage.java
+END
+GermanSecurityPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/wizards/GermanSecurityPage.java
+END

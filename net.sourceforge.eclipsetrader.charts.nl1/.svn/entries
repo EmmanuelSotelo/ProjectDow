@@ -1,0 +1,97 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.charts.nl1
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-10-08T19:32:51.561990Z
+594
+hhaensel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:46:13.296875Z
+8beaced19d9478770c27f0160cbcd0e5
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+plugin_fr.properties
+file
+
+
+
+
+2008-06-21T10:46:13.312500Z
+57c8275f081362a68c8674826382d61e
+2007-10-08T18:45:34.178492Z
+582
+hhaensel
+
+plugin_de.properties
+file
+
+
+
+
+2008-06-21T10:46:13.312500Z
+1df3585aff38b41f091d7f376e9dd3d1
+2007-09-25T18:05:52.899315Z
+568
+hhaensel
+
+.project
+file
+
+
+
+
+2008-06-21T10:46:13.359375Z
+21f22cd35384563b1e54c0ab9141c62e
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+src
+dir
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:46:13.359375Z
+22eb8de20882309d310811165d14a1b5
+2007-10-08T18:46:39.095542Z
+583
+hhaensel
+
+.settings
+dir
+

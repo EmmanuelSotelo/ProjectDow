@@ -1,0 +1,94 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.archipelago
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-05-18T08:24:30.077086Z
+519
+maccaf
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:45:14.515625Z
+8beaced19d9478770c27f0160cbcd0e5
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:45:14.515625Z
+f5e7b986cf139a98c5acf8c296a639e0
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+
+src
+dir
+
+epl-v10.html
+file
+
+
+
+
+2008-06-21T10:45:14.531250Z
+7aa4215a330a0a4f6a1cbf8da1a0879f
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:45:14.546875Z
+69e9e47d9eef63b589b0d7df55dbfe7d
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+
+plugin.xml
+file
+
+
+
+
+2008-06-21T10:45:14.546875Z
+04330cf369d76e073412715d644e84c5
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+

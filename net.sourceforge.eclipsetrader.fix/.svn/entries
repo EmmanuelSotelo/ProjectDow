@@ -1,0 +1,100 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.fix
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-04-22T10:00:03.647997Z
+499
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:50:07.578125Z
+953c8fa376ee7a45395957b02bdfacc8
+2006-10-31T18:07:46.745668Z
+372
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:50:07.593750Z
+efb530da58e2ca46c342deae3627153d
+2006-10-31T18:07:46.745668Z
+372
+maccaf
+
+lib
+dir
+
+src
+dir
+
+epl-v10.html
+file
+
+
+
+
+2008-06-21T10:50:07.593750Z
+7aa4215a330a0a4f6a1cbf8da1a0879f
+2006-10-31T18:07:46.745668Z
+372
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:50:07.609375Z
+12ee35fba20a0e24eca2dcae30e2d7d9
+2007-01-08T08:47:05.715278Z
+436
+maccaf
+
+etc
+dir
+
+plugin.xml
+file
+
+
+
+
+2008-06-21T10:50:07.609375Z
+66957d0556b252cc699eeeaab1143279
+2006-10-31T18:07:46.745668Z
+372
+maccaf
+

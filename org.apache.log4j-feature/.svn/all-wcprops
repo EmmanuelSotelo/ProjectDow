@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature/.project
+END
+feature.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature/feature.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature/build.properties
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/eclipsetrader/!svn/ver/435/trunk/org.apache.log4j-feature/feature.xml
+END

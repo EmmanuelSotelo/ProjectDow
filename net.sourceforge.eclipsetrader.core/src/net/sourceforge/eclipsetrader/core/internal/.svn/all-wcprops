@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal
+END
+XMLRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/532/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/XMLRepository.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/182/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/messages.properties
+END
+CObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/CObservable.java
+END
+LogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/LogListener.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/182/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/Messages.java
+END
+TradingSystemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/internal/TradingSystemRepository.java
+END

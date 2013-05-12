@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd
+END
+SyndEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndEntry.java
+END
+SyndFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndFeed.java
+END
+SyndImageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndImageImpl.java
+END
+SyndPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndPerson.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/Converter.java
+END
+SyndContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndContent.java
+END
+SyndCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndCategory.java
+END
+SyndLinkImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndLinkImpl.java
+END
+SyndEnclosureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndEnclosureImpl.java
+END
+SyndImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndImage.java
+END
+SyndEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndEntryImpl.java
+END
+SyndFeedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndFeedImpl.java
+END
+SyndPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndPersonImpl.java
+END
+SyndContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndContentImpl.java
+END
+SyndLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndLink.java
+END
+SyndEnclosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndEnclosure.java
+END
+SyndCategoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/synd/SyndCategoryImpl.java
+END

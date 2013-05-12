@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal
+END
+EarlyStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/EarlyStartup.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/380/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/DeleteAction.java
+END
+PixelTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/11/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/PixelTools.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/messages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/Messages.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/380/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/CopyAction.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/380/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/CutAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/380/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/PasteAction.java
+END
+PasteSpecialAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/380/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/internal/PasteSpecialAction.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/547/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer
+END
+ExplorerDragAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/531/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/ExplorerDragAdapter.java
+END
+FlatLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/FlatLabelProvider.java
+END
+ExplorerTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/529/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/ExplorerTransfer.java
+END
+InstrumentsViewerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/InstrumentsViewerComparator.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/547/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/Messages.java
+END
+GroupsPresentationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/GroupsPresentationAction.java
+END
+InstrumentsInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/533/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/InstrumentsInput.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/547/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/messages.properties
+END
+FlatInstrumentsInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/533/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/FlatInstrumentsInput.java
+END
+BulkChangesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/BulkChangesAction.java
+END
+HierarchicalContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/HierarchicalContentProvider.java
+END
+ExplorerDropAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/533/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/ExplorerDropAdapter.java
+END
+SecurityExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/547/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/SecurityExplorer.java
+END
+HierarchicalLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/eclipsetrader/!svn/ver/533/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/HierarchicalLabelProvider.java
+END
+PropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/529/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/PropertiesAction.java
+END
+FlatContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/543/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/FlatContentProvider.java
+END
+InstrumentsLabelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/eclipsetrader/!svn/ver/533/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui/views/explorer/InstrumentsLabelDecorator.java
+END

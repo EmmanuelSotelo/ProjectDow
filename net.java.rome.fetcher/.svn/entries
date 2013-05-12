@@ -1,0 +1,80 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.java.rome.fetcher
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2008-03-15T08:58:43.352615Z
+744
+maccaf
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+rome-fetcher-0.9.jar
+file
+
+
+
+
+2008-06-21T10:44:41.046875Z
+3ccaf3888d72d9b26f24a279663d0ed7
+2007-03-07T09:56:38.025994Z
+487
+maccaf
+has-props
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:44:41.046875Z
+60ed2a8d47e47b5c93c343029cdf5755
+2008-03-15T08:58:43.352615Z
+744
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:44:41.062500Z
+3c306358238f30b132e950e77379f7a1
+2007-01-11T07:23:46.539992Z
+448
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:44:41.062500Z
+03da92bccc95b34a68b6316d26c0f407
+2007-01-11T07:23:46.539992Z
+448
+maccaf
+

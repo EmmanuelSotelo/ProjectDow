@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.trading/schema
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-09-07T12:21:52.091062Z
+325
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+systems.exsd
+file
+
+
+
+
+2008-06-21T10:53:11.343750Z
+2abca26f3d5e2636954eb2b16a3523e9
+2006-06-12T10:21:47.640608Z
+217
+maccaf
+
+alerts.exsd
+file
+
+
+
+
+2008-06-21T10:53:11.359375Z
+6c3e114c43c26ea7aea2c376059e9536
+2006-05-23T09:27:54.633600Z
+142
+maccaf
+

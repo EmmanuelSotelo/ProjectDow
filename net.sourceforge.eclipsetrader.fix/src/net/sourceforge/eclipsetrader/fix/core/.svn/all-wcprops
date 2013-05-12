@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.fix/src/net/sourceforge/eclipsetrader/fix/core
+END
+ExecutorStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.fix/src/net/sourceforge/eclipsetrader/fix/core/ExecutorStartup.java
+END
+banzai.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/eclipsetrader/!svn/ver/372/trunk/net.sourceforge.eclipsetrader.fix/src/net/sourceforge/eclipsetrader/fix/core/banzai.cfg
+END
+BanzaiTradingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/499/trunk/net.sourceforge.eclipsetrader.fix/src/net/sourceforge/eclipsetrader/fix/core/BanzaiTradingProvider.java
+END
+executor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/eclipsetrader/!svn/ver/372/trunk/net.sourceforge.eclipsetrader.fix/src/net/sourceforge/eclipsetrader/fix/core/executor.cfg
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui
+END
+AccountGroupSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/106/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/AccountGroupSelection.java
+END
+SelectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/SelectionProvider.java
+END
+NullSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/NullSelection.java
+END
+AccountSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/162/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/AccountSelection.java
+END
+SaveableViewPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/266/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/SaveableViewPart.java
+END
+LabelProvidersRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/LabelProvidersRegistry.java
+END
+PortfolioPositionSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/121/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/PortfolioPositionSelection.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/Perspective.java
+END
+PluginPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/PluginPreferencePage.java
+END
+SecuritySelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/SecuritySelection.java
+END
+WizardPageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/WizardPageAdapter.java
+END

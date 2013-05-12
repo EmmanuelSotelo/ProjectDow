@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/eclipsetrader/!svn/ver/514/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views
+END
+CounterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/157/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/CounterPanel.java
+END
+PatternSearchItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/200/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/PatternSearchItem.java
+END
+Level2View.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/Level2View.java
+END
+TestRunnerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/514/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/TestRunnerView.java
+END
+TradingSystemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/157/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/TradingSystemView.java
+END
+IPatternSearchPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/103/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/IPatternSearchPage.java
+END
+OrdersView.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/422/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/OrdersView.java
+END
+AccountsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/497/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/AccountsView.java
+END
+OrderFormView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/OrderFormView.java
+END
+WatchlistView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/WatchlistView.java
+END
+PatternSearchView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/200/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/views/PatternSearchView.java
+END

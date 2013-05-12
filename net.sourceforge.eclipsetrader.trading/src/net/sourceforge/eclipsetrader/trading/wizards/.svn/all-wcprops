@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/eclipsetrader/!svn/ver/497/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards
+END
+NewAlertWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/208/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/NewAlertWizard.java
+END
+WatchlistSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/206/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/WatchlistSettingsDialog.java
+END
+CommonDialogPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/9/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/CommonDialogPage.java
+END
+CommonWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/9/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/CommonWizardPage.java
+END
+AlertSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/208/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/AlertSelectionPage.java
+END
+GeneralPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/135/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/GeneralPage.java
+END
+ColumnsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/ColumnsPage.java
+END
+ItemsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/58/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/ItemsPage.java
+END
+WatchlistItemPropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/eclipsetrader/!svn/ver/394/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/WatchlistItemPropertiesDialog.java
+END
+PluginParametersPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/PluginParametersPage.java
+END
+WatchlistWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/WatchlistWizard.java
+END
+CommonPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/9/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/CommonPreferencePage.java
+END
+AlertActionsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/208/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/AlertActionsPage.java
+END
+ItemPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/394/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/ItemPreferencePage.java
+END
+AlertsNodePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/142/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/AlertsNodePage.java
+END

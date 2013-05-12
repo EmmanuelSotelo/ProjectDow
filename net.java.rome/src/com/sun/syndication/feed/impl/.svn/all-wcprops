@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl
+END
+ToStringBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/ToStringBean.java
+END
+EqualsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/EqualsBean.java
+END
+BeanIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/BeanIntrospector.java
+END
+CloneableBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/CloneableBean.java
+END
+ObjectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/ObjectBean.java
+END
+CopyFromHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/impl/CopyFromHelper.java
+END

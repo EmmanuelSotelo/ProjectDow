@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components
+END
+ComponentCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components/ComponentCategory.java
+END
+ComponentsLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components/ComponentsLabelProvider.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components/Component.java
+END
+ComponentsExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components/ComponentsExplorer.java
+END
+ComponentsContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/components/ComponentsContentProvider.java
+END

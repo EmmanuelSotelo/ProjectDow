@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.core.nl1/src/net/sourceforge/eclipsetrader/core/transfers
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-09-25T18:10:47.430528Z
+570
+hhaensel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+messages_de.properties
+file
+
+
+
+
+2008-06-21T10:46:42.296875Z
+f2673a72224362cfb2842cc32541ff5b
+2007-09-25T18:10:47.430528Z
+570
+hhaensel
+
+messages_it.properties
+file
+
+
+
+
+2008-06-21T10:46:42.312500Z
+2e9a7ba4df2be4534f91b41750d82766
+2007-09-02T10:32:09.859562Z
+557
+maccaf
+

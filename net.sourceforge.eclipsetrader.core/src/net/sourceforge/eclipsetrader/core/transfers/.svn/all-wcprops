@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers/messages.properties
+END
+ChartIndicatorTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/94/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers/ChartIndicatorTransfer.java
+END
+WatchlistItemTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/98/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers/WatchlistItemTransfer.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers/Messages.java
+END
+SecurityTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/transfers/SecurityTransfer.java
+END

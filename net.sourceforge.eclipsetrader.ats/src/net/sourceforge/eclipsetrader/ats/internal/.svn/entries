@@ -1,0 +1,46 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-07-04T10:34:50.070349Z
+541
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+EarlyStartup.java
+file
+
+
+
+
+2008-06-21T10:45:23.546875Z
+454891ae2437bcd1c1891341a8fea53c
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+components
+dir
+
+strategies
+dir
+

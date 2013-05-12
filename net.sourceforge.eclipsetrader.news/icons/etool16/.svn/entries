@@ -1,0 +1,54 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.news/icons/etool16
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-04-15T09:18:43.603387Z
+32
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+newspaper_go.png
+file
+
+
+
+
+2008-06-21T10:51:46.296875Z
+fff970c448a73bee09b41f82b01996e1
+2006-04-15T09:18:43.603387Z
+32
+maccaf
+has-props
+
+newspaper_stop.png
+file
+
+
+
+
+2008-06-21T10:51:46.312500Z
+41516feb1c57c8935575e66dddf92844
+2006-04-15T09:18:43.603387Z
+32
+maccaf
+has-props
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/eclipsetrader/!svn/ver/744/trunk/org.apache.log4j
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/eclipsetrader/!svn/ver/744/trunk/org.apache.log4j/.classpath
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/.project
+END
+about.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/about.properties
+END
+about.mappings
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/about.mappings
+END
+about.ini
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/about.ini
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/build.properties
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eclipsetrader/!svn/ver/433/trunk/org.apache.log4j/log4j-1.2.14.jar
+END

@@ -1,0 +1,73 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.help.nl1
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2008-02-28T23:28:33.778249Z
+733
+hhaensel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:51:37.921875Z
+8beaced19d9478770c27f0160cbcd0e5
+2008-02-28T23:15:13.479292Z
+731
+hhaensel
+
+.project
+file
+
+
+
+
+2008-06-21T10:51:37.937500Z
+6536910ee232a7d52602b4d0289b3a02
+2008-02-28T23:15:13.479292Z
+731
+hhaensel
+
+src
+dir
+
+nl
+dir
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:51:37.937500Z
+c38d15f420e7cea7fccd10bd979abfa3
+2008-02-28T23:15:13.479292Z
+731
+hhaensel
+

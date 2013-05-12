@@ -1,0 +1,94 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T09:20:16.394146Z
+555
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+actions
+dir
+
+preferences
+dir
+
+dialogs
+dir
+
+messages.properties
+file
+
+
+
+
+2008-06-21T10:51:45.578125Z
+8dd2683fe0a8638b49dabb9d1ed414f6
+2007-05-15T16:47:24.410309Z
+509
+maccaf
+
+Messages.java
+file
+
+
+
+
+2008-06-21T10:51:45.625000Z
+ef77cbf9eb1989b40026cba9f7acb1d5
+2007-05-15T16:47:24.410309Z
+509
+maccaf
+
+Perspective.java
+file
+
+
+
+
+2008-06-21T10:51:45.640625Z
+f94f60aae2f008a990ff3dede5d0d141
+2007-05-15T16:47:24.410309Z
+509
+maccaf
+
+NewsPlugin.java
+file
+
+
+
+
+2008-06-21T10:51:45.640625Z
+f8ff944dcb591e51cbb3072afb1ceba2
+2007-05-15T16:47:24.410309Z
+509
+maccaf
+
+internal
+dir
+
+providers
+dir
+
+views
+dir
+

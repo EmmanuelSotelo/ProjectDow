@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/db/visitors
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+ITradingSystemVisitor.java
+file
+
+
+
+
+2008-06-21T10:45:21.875000Z
+38fc04086aca8edd560309361fc8c4fb
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+TradingSystemVisitorAdapter.java
+file
+
+
+
+
+2008-06-21T10:45:21.890625Z
+90f021290a0d3dbd3c6b757b4d1e4365
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+

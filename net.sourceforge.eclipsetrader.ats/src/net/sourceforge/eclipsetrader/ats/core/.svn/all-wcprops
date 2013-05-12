@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/eclipsetrader/!svn/ver/541/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core
+END
+SignalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/SignalType.java
+END
+IComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/IComponentContext.java
+END
+SignalStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/SignalStatus.java
+END
+SignalSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/SignalSide.java
+END
+IExecutionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/IExecutionManager.java
+END
+IMarketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/IMarketManager.java
+END
+IComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/IComponent.java
+END
+IMoneyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/IMoneyManager.java
+END
+Signal.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/Signal.java
+END
+BaseComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/BaseComponent.java
+END
+MarketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/MarketManager.java
+END
+ExecutionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/ExecutionManager.java
+END

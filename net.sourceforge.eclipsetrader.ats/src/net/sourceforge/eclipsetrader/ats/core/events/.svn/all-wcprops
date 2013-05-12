@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events
+END
+IMarketListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/IMarketListener.java
+END
+IBarListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/IBarListener.java
+END
+IPositionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/IPositionListener.java
+END
+MarketEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/MarketEvent.java
+END
+BarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/BarEvent.java
+END
+PositionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/PositionEvent.java
+END
+IOrderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/IOrderListener.java
+END
+OrderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/OrderAdapter.java
+END
+OrderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/core/events/OrderEvent.java
+END

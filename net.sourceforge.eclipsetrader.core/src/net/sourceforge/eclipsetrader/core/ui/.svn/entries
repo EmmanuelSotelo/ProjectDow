@@ -1,0 +1,184 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T09:20:16.394146Z
+555
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+SelectionProvider.java
+file
+
+
+
+
+2008-06-21T10:46:33.953125Z
+5f94664594780ccaf0252b58f7bec989
+2006-04-13T08:49:12.684911Z
+7
+maccaf
+
+export
+dir
+
+AccountSelection.java
+file
+
+
+
+
+2008-06-21T10:46:33.968750Z
+0827f2258bd80760760e20a269a548b5
+2006-05-28T21:16:57.229501Z
+162
+maccaf
+
+dialogs
+dir
+
+wizards
+dir
+
+SaveableViewPart.java
+file
+
+
+
+
+2008-06-21T10:46:33.984375Z
+0badaaa072cade6a4267ed1560779743
+2006-08-03T21:58:24.394176Z
+266
+maccaf
+
+LabelProvidersRegistry.java
+file
+
+
+
+
+2008-06-21T10:46:34.000000Z
+7da67c34fb7d00e6ce22146ef7418b15
+2007-06-08T12:22:46.318617Z
+524
+maccaf
+
+PortfolioPositionSelection.java
+file
+
+
+
+
+2008-06-21T10:46:34.015625Z
+a389615e3572141944af70ca8fe05628
+2006-05-15T11:36:46.659197Z
+121
+maccaf
+
+SecuritySelection.java
+file
+
+
+
+
+2008-06-21T10:46:34.031250Z
+1948ac8bbabd102f510ebfb4ce948c0b
+2006-04-13T08:49:12.684911Z
+7
+maccaf
+
+views
+dir
+
+AccountGroupSelection.java
+file
+
+
+
+
+2008-06-21T10:46:34.046875Z
+f534f8f80f663844d5ebc497ede69c9b
+2006-05-11T09:32:35.851306Z
+106
+maccaf
+
+actions
+dir
+
+NullSelection.java
+file
+
+
+
+
+2008-06-21T10:46:34.062500Z
+13fca48437d1671b9043a3d9da6cbd8b
+2006-04-13T08:49:12.684911Z
+7
+maccaf
+
+preferences
+dir
+
+widgets
+dir
+
+Perspective.java
+file
+
+
+
+
+2008-06-21T10:46:34.078125Z
+223517216628ad63363b676b2dd6d755
+2007-06-08T12:22:46.318617Z
+524
+maccaf
+
+PluginPreferencePage.java
+file
+
+
+
+
+2008-06-21T10:46:34.093750Z
+81f705d7f0c1050b88501606e08b6948
+2006-06-20T21:48:13.611825Z
+233
+maccaf
+
+internal
+dir
+
+WizardPageAdapter.java
+file
+
+
+
+
+2008-06-21T10:46:34.109375Z
+029d5629f145b661fbfd21cff806bf41
+2007-06-08T12:22:46.318617Z
+524
+maccaf
+

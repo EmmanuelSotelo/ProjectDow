@@ -1,0 +1,295 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T09:20:16.394146Z
+555
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+Settings.java
+file
+
+
+
+
+2008-06-21T10:45:59.812500Z
+31276a62ec7ed450adf4537e6e2d61ba
+2007-07-19T08:08:11.604386Z
+542
+maccaf
+
+BarSummaryItem.java
+file
+
+
+
+
+2008-06-21T10:45:59.828125Z
+9f840feed6e011aa538c2982c71ed38e
+2007-07-19T08:08:11.604386Z
+542
+maccaf
+
+dialogs
+dir
+
+ChartsPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:59.843750Z
+48b32948f3646c072ea21d4d67591b33
+2007-07-19T08:08:11.604386Z
+542
+maccaf
+
+wizards
+dir
+
+IIndicatorPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:59.875000Z
+a08fa60b6a5263d256b4d067550baf5b
+2006-06-03T10:41:22.419068Z
+185
+maccaf
+
+Scaler.java
+file
+
+
+
+
+2008-06-21T10:45:59.875000Z
+69cf53dbe165d4add816f57d6e3c8294
+2007-07-31T07:54:29.182828Z
+545
+maccaf
+
+objects
+dir
+
+DateSummaryItem.java
+file
+
+
+
+
+2008-06-21T10:45:59.875000Z
+e13c956c112026da93f7d8a1b7df1fdb
+2007-01-05T10:39:19.288319Z
+426
+maccaf
+
+IndicatorPlot.java
+file
+
+
+
+
+2008-06-21T10:45:59.890625Z
+abb2d02a87199cb70c614df268509989
+2007-05-18T07:21:16.383685Z
+517
+maccaf
+
+Indicator.java
+file
+
+
+
+
+2008-06-21T10:45:59.906250Z
+d7860bf4e8f65c18fc9aab6c45b92b2d
+2006-12-07T09:37:45.023125Z
+401
+maccaf
+
+DatePlot.java
+file
+
+
+
+
+2008-06-21T10:45:59.906250Z
+65e7a119406a334aa078b5a5454fbe99
+2007-01-06T10:34:20.661408Z
+427
+maccaf
+
+SummaryItem.java
+file
+
+
+
+
+2008-06-21T10:45:59.921875Z
+96d3a6ab47f07bb60f1af38191bc683a
+2006-11-04T17:08:48.652017Z
+380
+maccaf
+
+views
+dir
+
+Plot.java
+file
+
+
+
+
+2008-06-21T10:45:59.921875Z
+6cc75c6bf0ace5c70ed09f8ae42511fe
+2007-01-05T10:39:19.288319Z
+426
+maccaf
+
+indicators
+dir
+
+actions
+dir
+
+preferences
+dir
+
+ObjectPluginPreferencePage.java
+file
+
+
+
+
+2008-06-21T10:45:59.937500Z
+83de3dada0ca68f4dc7baa7f411a14fd
+2006-04-13T10:09:18.334619Z
+11
+maccaf
+
+events
+dir
+
+ObjectPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:59.937500Z
+b12cd24718e96cfd23f80d4346f7a26c
+2006-04-13T10:09:18.334619Z
+11
+maccaf
+
+NumberSummaryItem.java
+file
+
+
+
+
+2008-06-21T10:45:59.953125Z
+9ac5f45caf92d72bab8307c650729614
+2006-12-01T10:05:12.040033Z
+392
+maccaf
+
+ScalePlot.java
+file
+
+
+
+
+2008-06-21T10:45:59.953125Z
+c5520a5804ec99f9303a2bf3b370f693
+2006-12-01T10:05:12.040033Z
+392
+maccaf
+
+PlotLine.java
+file
+
+
+
+
+2008-06-21T10:45:59.968750Z
+351121e48c48e878ec583ce7a591f996
+2006-05-29T08:20:06.991730Z
+163
+maccaf
+
+IndicatorPluginPreferencePage.java
+file
+
+
+
+
+2008-06-21T10:45:59.984375Z
+d5a36f15c9bc2236a0b0c5f6ee3f15e4
+2006-12-07T16:50:49.130442Z
+402
+maccaf
+
+Perspective.java
+file
+
+
+
+
+2008-06-21T10:45:59.984375Z
+179ddf9e42f0aaf31695bf1fc59bd6bd
+2006-11-04T17:08:48.652017Z
+380
+maccaf
+
+IndicatorPlugin.java
+file
+
+
+
+
+2008-06-21T10:46:00.000000Z
+5ee1fd94318a4513a01540dd5714336e
+2007-01-04T11:30:47.500210Z
+423
+maccaf
+
+internal
+dir
+
+Summary.java
+file
+
+
+
+
+2008-06-21T10:46:00.000000Z
+fa1b8a4f37a37135786e00a49f13bbe2
+2006-12-01T10:05:12.040033Z
+392
+maccaf
+

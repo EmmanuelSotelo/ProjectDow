@@ -1,0 +1,109 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ui
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-09-02T17:26:12.917337Z
+563
+maccaf
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:53:44.343750Z
+8beaced19d9478770c27f0160cbcd0e5
+2007-06-26T10:57:27.268622Z
+529
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:53:44.359375Z
+c795f2243b2e971ea6ccaf55e88cb540
+2007-06-26T10:57:27.268622Z
+529
+maccaf
+
+src
+dir
+
+epl-v10.html
+file
+
+
+
+
+2008-06-21T10:53:44.359375Z
+7aa4215a330a0a4f6a1cbf8da1a0879f
+2007-06-26T10:57:27.268622Z
+529
+maccaf
+
+plugin.properties
+file
+
+
+
+
+2008-06-21T10:53:44.375000Z
+ddc35f74528bbf06c0bf639e848ba1cb
+2007-08-05T07:40:27.368995Z
+547
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:53:44.390625Z
+1fa02b786be7daf7279faf8807f8989f
+2007-09-02T17:26:12.917337Z
+563
+maccaf
+
+icons
+dir
+
+plugin.xml
+file
+
+
+
+
+2008-06-21T10:53:44.390625Z
+4745f30f8e39bd946b088b917dc125d7
+2007-08-05T07:40:27.368995Z
+547
+maccaf
+

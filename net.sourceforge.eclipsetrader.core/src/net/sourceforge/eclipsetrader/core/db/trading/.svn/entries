@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/db/trading
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-05-26T10:17:54.633587Z
+148
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+TradingSystemGroup.java
+file
+
+
+
+
+2008-06-21T10:46:22.796875Z
+4c58181b19de65a9d9694cac5f0fa48f
+2006-05-26T10:17:54.633587Z
+148
+maccaf
+
+TradingSystem.java
+file
+
+
+
+
+2008-06-21T10:46:22.796875Z
+297d2eae4309fe4ae5ac1fe0fcfef8bd
+2006-05-26T10:17:54.633587Z
+148
+maccaf
+

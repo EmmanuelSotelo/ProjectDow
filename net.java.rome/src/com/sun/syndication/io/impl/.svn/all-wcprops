@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl
+END
+RSS091NetscapeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS091NetscapeParser.java
+END
+FeedParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/FeedParsers.java
+END
+SyModuleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/SyModuleGenerator.java
+END
+Atom03Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/Atom03Generator.java
+END
+RSS091UserlandParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS091UserlandParser.java
+END
+Atom10Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/Atom10Parser.java
+END
+RSS20wNSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS20wNSParser.java
+END
+ModuleGenerators.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/ModuleGenerators.java
+END
+RSS20Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS20Generator.java
+END
+RSS093Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS093Parser.java
+END
+XmlFixerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/XmlFixerReader.java
+END
+FeedGenerators.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/FeedGenerators.java
+END
+BaseWireFeedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/BaseWireFeedParser.java
+END
+DCModuleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/DCModuleGenerator.java
+END
+RSS091UserlandGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS091UserlandGenerator.java
+END
+RSS090Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS090Generator.java
+END
+Atom10Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/Atom10Generator.java
+END
+DCModuleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/DCModuleParser.java
+END
+RSS092Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS092Generator.java
+END
+RSS093Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS093Generator.java
+END
+RSS094Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS094Generator.java
+END
+RSS090Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS090Parser.java
+END
+SyModuleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/SyModuleParser.java
+END
+RSS092Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS092Parser.java
+END
+RSS10Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS10Generator.java
+END
+Atom03Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/Atom03Parser.java
+END
+RSS094Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS094Parser.java
+END
+PropertiesLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/PropertiesLoader.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/Base64.java
+END
+ModuleParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/ModuleParsers.java
+END
+RSS10Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS10Parser.java
+END
+RSS20Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS20Parser.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/PluginManager.java
+END
+DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/DateParser.java
+END
+RSS091NetscapeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/RSS091NetscapeGenerator.java
+END
+BaseWireFeedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/io/impl/BaseWireFeedGenerator.java
+END

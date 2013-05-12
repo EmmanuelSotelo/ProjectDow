@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions
+END
+NewSecurityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/NewSecurityAction.java
+END
+RefreshCurrenciesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/RefreshCurrenciesAction.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/messages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/Messages.java
+END
+DeleteSecurityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/DeleteSecurityAction.java
+END
+SetExchangeRateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/272/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/SetExchangeRateAction.java
+END
+ConvertCurrencyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/137/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/ConvertCurrencyAction.java
+END
+PropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/actions/PropertiesAction.java
+END

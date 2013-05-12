@@ -1,0 +1,106 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ui.nl1
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:53:49.343750Z
+8beaced19d9478770c27f0160cbcd0e5
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+plugin_de.properties
+file
+
+
+
+
+2008-06-21T10:53:49.359375Z
+ae66605a7cfa6ae5a4521033ea9d76c5
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:53:49.359375Z
+22a34976d9c2f831f9ccd8da5ae87d18
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+plugin_it.properties
+file
+
+
+
+
+2008-06-21T10:53:49.375000Z
+479818c46adc41b5dd101a678b60c883
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+src
+dir
+
+epl-v10.html
+file
+
+
+
+
+2008-06-21T10:53:49.375000Z
+7aa4215a330a0a4f6a1cbf8da1a0879f
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:53:49.375000Z
+e9cb446b62d7dc501156a362cbcd6154
+2007-08-05T09:16:53.191752Z
+554
+maccaf
+

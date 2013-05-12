@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/messages.properties
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/eclipsetrader/!svn/ver/546/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/Application.java
+END
+EclipseTraderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/343/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/EclipseTraderPlugin.java
+END
+TraderPresentationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/495/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/TraderPresentationFactory.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/ApplicationWorkbenchWindowAdvisor.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/Messages.java
+END
+PasteSpecialAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/eclipsetrader/!svn/ver/92/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/PasteSpecialAction.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/518/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/ApplicationWorkbenchAdvisor.java
+END
+SettingsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/eclipsetrader/!svn/ver/92/trunk/net.sourceforge.eclipsetrader/src/net/sourceforge/eclipsetrader/SettingsAction.java
+END

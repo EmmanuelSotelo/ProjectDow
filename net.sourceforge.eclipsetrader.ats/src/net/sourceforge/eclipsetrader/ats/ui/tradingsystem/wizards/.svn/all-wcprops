@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards
+END
+StrategyPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/StrategyPage.java
+END
+StrategyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/StrategyWizard.java
+END
+GeneralPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/GeneralPage.java
+END
+SecuritySelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/SecuritySelectionPage.java
+END
+MarketManagerPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/MarketManagerPage.java
+END
+TradingSystemWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/wizards/TradingSystemWizard.java
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/511/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators
+END
+SUM.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/SUM.java
+END
+MACD.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/MACD.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/511/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/Messages.java
+END
+ADX.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ADX.java
+END
+AROON.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/AROON.java
+END
+STOCH.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/STOCH.java
+END
+ROC.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ROC.java
+END
+AROONOSC.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/AROONOSC.java
+END
+AD.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/AD.java
+END
+SAR.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/SAR.java
+END
+TRIX.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/TRIX.java
+END
+OBV.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/OBV.java
+END
+ATR.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ATR.java
+END
+ADOSC.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ADOSC.java
+END
+BBANDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/BBANDS.java
+END
+RSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/RSI.java
+END
+CCI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/CCI.java
+END
+PPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/PPO.java
+END
+TYPPRICE.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/TYPPRICE.java
+END
+AVGPRICE.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/AVGPRICE.java
+END
+NATR.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/NATR.java
+END
+LINEARREG.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/LINEARREG.java
+END
+ULTOSC.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ULTOSC.java
+END
+DX.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/DX.java
+END
+MFI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/MFI.java
+END
+CMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/CMO.java
+END
+APO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/APO.java
+END
+BOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/BOP.java
+END
+TRANGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/TRANGE.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/511/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/messages.properties
+END
+MOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/MOM.java
+END
+TSF.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/TSF.java
+END
+MA.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/511/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/MA.java
+END
+STOCHRSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/STOCHRSI.java
+END
+ADXR.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/496/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib/indicators/ADXR.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.archipelago/src/net/sourceforge/eclipsetrader/archipelago
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-04-18T08:21:48.624283Z
+49
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+ArchipelagoPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:14.375000Z
+03604ce91039dcf18eccd2d522de570d
+2006-04-13T14:18:03.945127Z
+19
+maccaf
+
+Level2Feed.java
+file
+
+
+
+
+2008-06-21T10:45:14.390625Z
+1ecb38306a7b87707ef2395746eaa705
+2006-04-18T08:21:48.624283Z
+49
+maccaf
+

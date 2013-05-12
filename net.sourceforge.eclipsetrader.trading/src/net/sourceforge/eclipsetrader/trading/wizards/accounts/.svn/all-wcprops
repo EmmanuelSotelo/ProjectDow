@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/497/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts
+END
+CommissionsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/CommissionsPage.java
+END
+PluginSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/PluginSelectionPage.java
+END
+NewAccountWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/NewAccountWizard.java
+END
+GeneralPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/GeneralPage.java
+END
+AccountSettingsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/AccountSettingsAction.java
+END
+AccountWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/497/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/AccountWizardAction.java
+END
+AccountSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/accounts/AccountSettingsDialog.java
+END

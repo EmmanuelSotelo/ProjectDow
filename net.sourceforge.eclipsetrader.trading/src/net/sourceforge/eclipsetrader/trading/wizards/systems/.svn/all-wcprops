@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/154/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/systems
+END
+SystemSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/systems/SystemSelectionPage.java
+END
+BaseParametersPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/149/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/systems/BaseParametersPage.java
+END
+TradingSystemSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svnroot/eclipsetrader/!svn/ver/152/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/systems/TradingSystemSettingsDialog.java
+END
+TradingSystemWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/eclipsetrader/!svn/ver/154/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/wizards/systems/TradingSystemWizard.java
+END

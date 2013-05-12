@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ProjectDow Plug-in
+Bundle-SymbolicName: net.emmanuelsotelo.ProjectDow;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: net.emmanuelsotelo.projectdow.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ net.sourceforge.eclipsetrader.core,
+ net.sourceforge.eclipsetrader.charts,
+ org.apache.commons,
+ net.sourceforge.eclipsetrader.trading,
+ org.beanshell.bsh,
+ org.encog,
+ org.slf4j
+Eclipse-LazyStart: true

@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/views
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-07-19T08:08:11.604386Z
+542
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+DataView.java
+file
+
+
+
+
+2008-06-21T10:45:51.078125Z
+aaba0bc0406833104594a4528ed093a1
+2006-06-13T09:35:58.138718Z
+224
+maccaf
+
+ChartView.java
+file
+
+
+
+
+2008-06-21T10:45:51.093750Z
+68fcbc36500ccc868f8160c314a47dbf
+2007-07-19T08:08:11.604386Z
+542
+maccaf
+

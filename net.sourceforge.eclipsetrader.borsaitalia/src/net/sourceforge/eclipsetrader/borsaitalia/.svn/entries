@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.borsaitalia/src/net/sourceforge/eclipsetrader/borsaitalia
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-07-31T07:28:33.118663Z
+544
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+HistoryFeed.java
+file
+
+
+
+
+2008-06-21T10:45:37.312500Z
+6f4ac7b3047f90726eb58a783701e4f3
+2007-07-31T07:28:33.118663Z
+544
+maccaf
+
+BorsaitaliaPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:37.328125Z
+a1fd2c16e23651f8326419ab30af5019
+2007-05-17T09:46:05.988770Z
+515
+maccaf
+

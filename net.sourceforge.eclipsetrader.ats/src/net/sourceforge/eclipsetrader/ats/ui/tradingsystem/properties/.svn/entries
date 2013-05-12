@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem/properties
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+GeneralPage.java
+file
+
+
+
+
+2008-06-21T10:45:25.921875Z
+5b6ae8701edbfba3b7f8326101e06ff8
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+TradingSystemPropertiesDialog.java
+file
+
+
+
+
+2008-06-21T10:45:25.937500Z
+093f27fc034337b4b3bd65ac5bbc1956
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+

@@ -1,0 +1,73 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-07-04T10:34:50.070349Z
+541
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+Repository.java
+file
+
+
+
+
+2008-06-21T10:45:26.812500Z
+415534f97d656d7cf5593f223deb3e40
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+ATSPlugin.java
+file
+
+
+
+
+2008-06-21T10:45:26.875000Z
+0fb1386077aa367198f3c124420b4455
+2007-07-04T07:09:59.809683Z
+540
+maccaf
+
+core
+dir
+
+TradingSystemManager.java
+file
+
+
+
+
+2008-06-21T10:45:26.875000Z
+84fabbd7fc10a32a0924032ad0a0d618
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+internal
+dir
+
+ui
+dir
+

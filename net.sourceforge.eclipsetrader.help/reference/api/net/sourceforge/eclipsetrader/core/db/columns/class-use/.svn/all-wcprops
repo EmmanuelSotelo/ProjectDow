@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use
+END
+Date.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Date.html
+END
+BidPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/BidPrice.html
+END
+Description.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Description.html
+END
+OpenPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/OpenPrice.html
+END
+LowPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/LowPrice.html
+END
+Balance.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Balance.html
+END
+Change.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Change.html
+END
+LastPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/LastPrice.html
+END
+ClosePrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/ClosePrice.html
+END
+BidSize.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/BidSize.html
+END
+Currency.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Currency.html
+END
+DateTime.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/DateTime.html
+END
+Column.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Column.html
+END
+Time.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Time.html
+END
+PaidPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/PaidPrice.html
+END
+AskPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/AskPrice.html
+END
+HighPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/HighPrice.html
+END
+Position.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Position.html
+END
+ChangePercent.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/ChangePercent.html
+END
+Volume.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Volume.html
+END
+AskSize.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/AskSize.html
+END
+Code.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/216/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/db/columns/class-use/Code.html
+END

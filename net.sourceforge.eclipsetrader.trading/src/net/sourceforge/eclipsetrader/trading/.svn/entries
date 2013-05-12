@@ -1,0 +1,187 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-05-17T08:52:37.468660Z
+514
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+dialogs
+dir
+
+TradingSystemSelection.java
+file
+
+
+
+
+2008-06-21T10:53:27.468750Z
+83995f91bdf85194556685c1c22320fc
+2006-05-26T19:06:50.761259Z
+149
+maccaf
+
+wizards
+dir
+
+TradingPlugin.java
+file
+
+
+
+
+2008-06-21T10:53:27.484375Z
+3430864237c47f7c75e312e528c6e2a7
+2006-09-07T12:21:52.091062Z
+325
+maccaf
+
+TradingSystemPluginPreferencePage.java
+file
+
+
+
+
+2008-06-21T10:53:27.500000Z
+5cc70d21758d7a2c976460b5655f99c2
+2006-05-26T19:06:50.761259Z
+149
+maccaf
+
+alerts
+dir
+
+TradingSystemPlugin.java
+file
+
+
+
+
+2008-06-21T10:53:27.515625Z
+8a98aefa7d8a170347719e0ba5ef528e
+2006-05-27T15:52:48.452918Z
+157
+maccaf
+
+views
+dir
+
+DataCollector.java
+file
+
+
+
+
+2008-06-21T10:53:27.546875Z
+1e980719bc9ca4c94b91244efbe286cb
+2007-02-03T08:47:54.426947Z
+468
+maccaf
+
+TradingSystemGroupSelection.java
+file
+
+
+
+
+2008-06-21T10:53:27.531250Z
+3686d014b2e91842c73e752d55d92892
+2006-05-26T19:06:50.761259Z
+149
+maccaf
+
+actions
+dir
+
+patterns
+dir
+
+IOrdersLabelProvider.java
+file
+
+
+
+
+2008-06-21T10:53:27.562500Z
+a275386c975695a9a059474780be110d
+2006-08-13T09:49:23.675442Z
+277
+maccaf
+
+AlertPluginPreferencePage.java
+file
+
+
+
+
+2008-06-21T10:53:27.562500Z
+b5037efc148583a9476f7b006815f0b7
+2006-05-26T19:06:50.761259Z
+149
+maccaf
+
+WatchlistColumnSelection.java
+file
+
+
+
+
+2008-06-21T10:53:27.578125Z
+4811ad1036542e11663246d65994ec94
+2006-09-06T07:48:39.996029Z
+322
+maccaf
+
+AlertPlugin.java
+file
+
+
+
+
+2008-06-21T10:53:27.578125Z
+335be6680216cd888ab875e10a92ce36
+2006-06-12T08:09:18.307239Z
+214
+maccaf
+
+systems
+dir
+
+WatchlistItemSelection.java
+file
+
+
+
+
+2008-06-21T10:53:27.593750Z
+4194b6ef13da7c3218c1d9c5767d766d
+2006-04-13T10:05:34.986477Z
+9
+maccaf
+
+internal
+dir
+
+portfolio
+dir
+

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core
+END
+ICollectionObserver.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/ICollectionObserver.html
+END
+IFeed.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/IFeed.html
+END
+ITradingProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/ITradingProvider.html
+END
+Repository.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/Repository.html
+END
+IAccountProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/IAccountProvider.html
+END
+ObservableList.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/ObservableList.html
+END
+CurrencyConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/CurrencyConverter.html
+END
+FeedPlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/FeedPlugin.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/package-use.html
+END
+Level2FeedMonitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/Level2FeedMonitor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/package-summary.html
+END
+ILevel2Feed.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/ILevel2Feed.html
+END
+IPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/IPattern.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/package-tree.html
+END
+IEditableLabelProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/IEditableLabelProvider.html
+END
+IHistoryFeed.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/IHistoryFeed.html
+END
+INewsProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/INewsProvider.html
+END
+TradingProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/TradingProvider.html
+END
+Sentiment.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/Sentiment.html
+END
+CorePlugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/CorePlugin.html
+END
+FeedMonitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/476/trunk/net.sourceforge.eclipsetrader.help/reference/api/net/sourceforge/eclipsetrader/core/FeedMonitor.html
+END

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Archipelago
+Bundle-SymbolicName: net.sourceforge.eclipsetrader.archipelago; singleton:=true
+Bundle-Version: 0.30.0
+Bundle-Activator: net.sourceforge.eclipsetrader.archipelago.ArchipelagoPlugin
+Bundle-Vendor: EclipseTrader.Plugins
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ net.sourceforge.eclipsetrader.core
+Eclipse-LazyStart: true

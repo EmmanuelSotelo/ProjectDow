@@ -1,0 +1,8 @@
+source.plugin.jar = src/
+output.. = bin/
+bin.includes = META-INF/,\
+               plugin.jar,\
+               plugin.xml,\
+               epl-v10.html,\
+               plugin.properties,\
+               lib/

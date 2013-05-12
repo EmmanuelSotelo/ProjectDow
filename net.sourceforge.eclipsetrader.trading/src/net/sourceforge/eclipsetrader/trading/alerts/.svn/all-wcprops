@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/eclipsetrader/!svn/ver/423/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts
+END
+MovingAverageCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/423/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/MovingAverageCrossover.java
+END
+MovingAverageCrossoverPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/eclipsetrader/!svn/ver/214/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/MovingAverageCrossoverPreferences.java
+END
+RSICrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/423/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/RSICrossover.java
+END
+RSICrossoverPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/237/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/RSICrossoverPreferences.java
+END
+PriceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/205/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/PriceChange.java
+END
+TargetPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/205/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/TargetPrice.java
+END
+PriceAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/423/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/PriceAlert.java
+END
+PriceChangePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/205/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/PriceChangePreferences.java
+END
+TargetPricePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/205/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/TargetPricePreferences.java
+END
+PriceAlertPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/205/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/PriceAlertPreferences.java
+END
+MA.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/eclipsetrader/!svn/ver/236/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/alerts/MA.java
+END

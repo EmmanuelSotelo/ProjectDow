@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects
+END
+FanLines.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/FanLines.java
+END
+HorizontalLineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/HorizontalLineAction.java
+END
+HorizontalLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/HorizontalLine.java
+END
+ParallelLineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/ParallelLineAction.java
+END
+ParallelLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/ParallelLine.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/Messages.java
+END
+FiboLinePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/FiboLinePreferences.java
+END
+LinePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/LinePreferences.java
+END
+SellArrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/SellArrow.java
+END
+BuyArrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/BuyArrow.java
+END
+FanLinesPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/FanLinesPreferences.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/messages.properties
+END
+HorizontalLinePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/HorizontalLinePreferences.java
+END
+FiboLineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/FiboLineAction.java
+END
+LineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/LineAction.java
+END
+ParallelLinePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/ParallelLinePreferences.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/Line.java
+END
+FiboLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/objects/FiboLine.java
+END

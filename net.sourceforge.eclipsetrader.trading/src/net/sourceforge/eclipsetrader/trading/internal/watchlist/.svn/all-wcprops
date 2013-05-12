@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist
+END
+PaidPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/PaidPrice.java
+END
+AskPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/AskPrice.java
+END
+HighPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/HighPrice.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Position.java
+END
+ChangePercent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/ChangePercent.java
+END
+Volume.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Volume.java
+END
+AskSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/AskSize.java
+END
+Code.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Code.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Date.java
+END
+MarketValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/396/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/MarketValue.java
+END
+BidPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/BidPrice.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Description.java
+END
+OpenPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/OpenPrice.java
+END
+LowPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/LowPrice.java
+END
+Balance.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Balance.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Change.java
+END
+ColumnRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/421/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/ColumnRegistry.java
+END
+LastPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/LastPrice.java
+END
+BookValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/397/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/BookValue.java
+END
+ClosePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/ClosePrice.java
+END
+BidSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/BidSize.java
+END
+Currency.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Currency.java
+END
+DateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/DateTime.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/322/trunk/net.sourceforge.eclipsetrader.trading/src/net/sourceforge/eclipsetrader/trading/internal/watchlist/Time.java
+END

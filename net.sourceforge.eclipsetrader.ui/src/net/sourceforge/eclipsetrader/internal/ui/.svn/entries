@@ -1,0 +1,46 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/internal/ui
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T07:40:27.368995Z
+547
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+dialogs
+dir
+
+Activator.java
+file
+
+
+
+
+2008-06-21T10:53:43.859375Z
+027a59320996927734b8e026bfb36cc2
+2007-07-23T06:44:45.186518Z
+543
+maccaf
+
+views
+dir
+

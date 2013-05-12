@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss
+END
+Enclosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Enclosure.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Source.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Image.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Description.java
+END
+TextInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/TextInput.java
+END
+Cloud.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Cloud.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Channel.java
+END
+Guid.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Guid.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Content.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Category.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/eclipsetrader/!svn/ver/740/trunk/net.java.rome/src/com/sun/syndication/feed/rss/Item.java
+END

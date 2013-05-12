@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater
+END
+FrenchListUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/FrenchListUpdateJob.java
+END
+USListUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/USListUpdateJob.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/messages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/Messages.java
+END
+ListUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/ListUpdateJob.java
+END
+GermanyListUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/GermanyListUpdateJob.java
+END
+AbstractListUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/eclipsetrader/!svn/ver/525/trunk/net.sourceforge.eclipsetrader.yahoo/src/net/sourceforge/eclipsetrader/yahoo/internal/updater/AbstractListUpdateJob.java
+END

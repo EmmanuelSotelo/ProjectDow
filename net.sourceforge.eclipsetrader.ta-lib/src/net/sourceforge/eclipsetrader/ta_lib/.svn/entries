@@ -1,0 +1,82 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ta-lib/src/net/sourceforge/eclipsetrader/ta_lib
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-05-16T10:22:56.882063Z
+511
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+indicators
+dir
+
+IndicatorPreferencesFactory.java
+file
+
+
+
+
+2008-06-21T10:53:05.375000Z
+f48abdff21d653c28c550725b0a99ae0
+2007-05-16T10:22:56.882063Z
+511
+maccaf
+
+Factory.java
+file
+
+
+
+
+2008-06-21T10:53:05.375000Z
+0c7f62cb4b656b9702786b61fe9a31e4
+2006-10-29T07:36:50.505535Z
+361
+maccaf
+
+IndicatorsFactory.java
+file
+
+
+
+
+2008-06-21T10:53:05.390625Z
+eea195e58ddbbc6f13510763c157c3eb
+2007-05-16T10:22:56.882063Z
+511
+maccaf
+
+TALibPlugin.java
+file
+
+
+
+
+2008-06-21T10:53:05.390625Z
+324196e871fdb1e51df17bb0da44db39
+2007-05-16T10:22:56.882063Z
+511
+maccaf
+
+internal
+dir
+

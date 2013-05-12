@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/eclipsetrader/!svn/ver/526/trunk/net.sourceforge.eclipsetrader.core/schema
+END
+patterns.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/eclipsetrader/!svn/ver/101/trunk/net.sourceforge.eclipsetrader.core/schema/patterns.exsd
+END
+feeds.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/schema/feeds.exsd
+END
+tradingProviders.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/304/trunk/net.sourceforge.eclipsetrader.core/schema/tradingProviders.exsd
+END
+loggingPreferences.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/266/trunk/net.sourceforge.eclipsetrader.core/schema/loggingPreferences.exsd
+END
+viewLabelProviders.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/eclipsetrader/!svn/ver/321/trunk/net.sourceforge.eclipsetrader.core/schema/viewLabelProviders.exsd
+END
+accountProviders.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/233/trunk/net.sourceforge.eclipsetrader.core/schema/accountProviders.exsd
+END
+customRepository.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/eclipsetrader/!svn/ver/526/trunk/net.sourceforge.eclipsetrader.core/schema/customRepository.exsd
+END
+news.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/eclipsetrader/!svn/ver/7/trunk/net.sourceforge.eclipsetrader.core/schema/news.exsd
+END

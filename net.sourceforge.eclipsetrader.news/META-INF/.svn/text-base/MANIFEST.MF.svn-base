@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: News
+Bundle-SymbolicName: net.sourceforge.eclipsetrader.news; singleton:=true
+Bundle-Version: 0.30.0
+Bundle-Activator: net.sourceforge.eclipsetrader.news.NewsPlugin
+Bundle-Vendor: EclipseTrader
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.core.net,
+ org.eclipse.ui,
+ org.eclipse.core.runtime,
+ net.sourceforge.eclipsetrader.core,
+ net.java.rome,
+ net.java.rome.fetcher,
+ org.apache.commons
+Export-Package: net.sourceforge.eclipsetrader.news,
+ net.sourceforge.eclipsetrader.news.actions,
+ net.sourceforge.eclipsetrader.news.dialogs,
+ net.sourceforge.eclipsetrader.news.internal,
+ net.sourceforge.eclipsetrader.news.preferences,
+ net.sourceforge.eclipsetrader.news.providers,
+ net.sourceforge.eclipsetrader.news.views
+Eclipse-LazyStart: true
+Bundle-ClassPath: .

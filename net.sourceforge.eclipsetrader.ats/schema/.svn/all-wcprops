@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/eclipsetrader/!svn/ver/540/trunk/net.sourceforge.eclipsetrader.ats/schema
+END
+components.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/schema/components.exsd
+END
+systemWizards.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/eclipsetrader/!svn/ver/540/trunk/net.sourceforge.eclipsetrader.ats/schema/systemWizards.exsd
+END
+strategies.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/eclipsetrader/!svn/ver/503/trunk/net.sourceforge.eclipsetrader.ats/schema/strategies.exsd
+END

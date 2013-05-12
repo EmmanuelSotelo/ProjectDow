@@ -1,0 +1,40 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.opentick/src/net/sourceforge/eclipsetrader/opentick/ui
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-03-11T19:50:59.946339Z
+492
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+actions
+dir
+
+preferences
+dir
+
+dialogs
+dir
+
+wizards
+dir
+

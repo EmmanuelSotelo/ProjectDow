@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/eclipsetrader/!svn/ver/744/trunk/org.apache.commons
+END
+commons-httpclient-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/commons-httpclient-3.0.1.jar
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/eclipsetrader/!svn/ver/744/trunk/org.apache.commons/.classpath
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/commons-codec-1.3.jar
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/LICENSE
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/commons-collections-3.2.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/.project
+END
+about.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/about.properties
+END
+about.mappings
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/about.mappings
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/commons-logging-1.1.jar
+END
+about.ini
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/about.ini
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/eclipsetrader/!svn/ver/429/trunk/org.apache.commons/build.properties
+END

@@ -1,0 +1,97 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.news
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-08-05T09:20:16.394146Z
+555
+maccaf
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-21T10:51:46.343750Z
+8beaced19d9478770c27f0160cbcd0e5
+2007-01-11T09:07:25.054983Z
+451
+maccaf
+
+.project
+file
+
+
+
+
+2008-06-21T10:51:47.375000Z
+9ff481999e58e30f7a249a577b684557
+2006-04-13T10:13:45.955929Z
+13
+maccaf
+
+src
+dir
+
+plugin.properties
+file
+
+
+
+
+2008-06-21T10:51:47.390625Z
+a246dcc30f1e3380604a57c22604c1ce
+2006-07-28T09:07:56.925263Z
+264
+maccaf
+
+build.properties
+file
+
+
+
+
+2008-06-21T10:51:47.875000Z
+6521cd75969ae0662c746534fa40008e
+2007-01-11T09:07:25.054983Z
+451
+maccaf
+
+icons
+dir
+
+plugin.xml
+file
+
+
+
+
+2008-06-21T10:51:47.875000Z
+472cab8c4f36e5fe26228c2e46490e42
+2007-05-13T18:49:17.939996Z
+508
+maccaf
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/509/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views/messages.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/509/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views/Messages.java
+END
+NewsLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/509/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views/NewsLabelProvider.java
+END
+NewsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/eclipsetrader/!svn/ver/534/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views/NewsView.java
+END
+NewsStartupJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/509/trunk/net.sourceforge.eclipsetrader.news/src/net/sourceforge/eclipsetrader/news/views/NewsStartupJob.java
+END

@@ -1,0 +1,109 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/ui/tradingsystem
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+TestPeriodDialog.java
+file
+
+
+
+
+2008-06-21T10:45:26.593750Z
+99799cd1eb27e3d699a7612b2de0a359
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+wizards
+dir
+
+RunnablesLabelProvider.java
+file
+
+
+
+
+2008-06-21T10:45:26.593750Z
+f6a7b216c275df1a40f6ec5c14823aa7
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+ContentProvider.java
+file
+
+
+
+
+2008-06-21T10:45:26.625000Z
+b226dd0ccdbaf6387d036584cf3c5da0
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+TradingSystemView.java
+file
+
+
+
+
+2008-06-21T10:45:26.640625Z
+a8fe8e35e7b063e600fd8fd05e3bcde9
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+ViewColumnsDialog.java
+file
+
+
+
+
+2008-06-21T10:45:26.656250Z
+d9243b13dc708925405a3403b80cc1ae
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+
+properties
+dir
+
+providers
+dir
+
+ComponentRunnableTransfer.java
+file
+
+
+
+
+2008-06-21T10:45:26.671875Z
+b33de7704509a4ec43e6acab4c7c4e05
+2007-04-26T07:07:17.323881Z
+503
+maccaf
+

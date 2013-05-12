@@ -1,0 +1,52 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.ui/src/net/sourceforge/eclipsetrader/ui
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2007-07-23T06:44:45.186518Z
+543
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+UIImageRegistry.java
+file
+
+
+
+
+2008-06-21T10:53:43.921875Z
+c7d6e8fb2f6e137f02b29227d65030f8
+2007-07-23T06:44:45.186518Z
+543
+maccaf
+
+SecurityGroupSelection.java
+file
+
+
+
+
+2008-06-21T10:53:43.921875Z
+e0f63864a17f56b795bf26280c47c6c3
+2007-06-29T07:26:33.251864Z
+533
+maccaf
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/eclipsetrader/!svn/ver/385/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/db/visitors
+END
+ChartVisitorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/385/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/db/visitors/ChartVisitorAdapter.java
+END
+IChartVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/377/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/db/visitors/IChartVisitor.java
+END

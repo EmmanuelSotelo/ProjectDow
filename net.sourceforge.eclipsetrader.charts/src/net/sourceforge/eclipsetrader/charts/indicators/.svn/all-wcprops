@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators
+END
+SDPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/SDPreferencePage.java
+END
+MACD.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MACD.java
+END
+Stochastic.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/Stochastic.java
+END
+MAChannelsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MAChannelsPreferencePage.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/Messages.java
+END
+VIDYAPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VIDYAPreferencePage.java
+END
+DMI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/DMI.java
+END
+MAPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/402/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MAPreferences.java
+END
+BollingerBandsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/BollingerBandsPreferencePage.java
+END
+DPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/DPO.java
+END
+ROC.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/ROC.java
+END
+UO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/UO.java
+END
+AccumulationDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/AccumulationDistribution.java
+END
+VFI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VFI.java
+END
+CommodityChannelIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/CommodityChannelIndex.java
+END
+SAR.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/SAR.java
+END
+VTPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VTPreferencePage.java
+END
+ATR.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/ATR.java
+END
+Bars.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/Bars.java
+END
+AdaptiveStochPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/AdaptiveStochPreferencePage.java
+END
+FIPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/FIPreferencePage.java
+END
+LinesPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/LinesPreferences.java
+END
+RSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/RSI.java
+END
+MarketThermometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MarketThermometer.java
+END
+StochasticPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/StochasticPreferencePage.java
+END
+MAOSC.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MAOSC.java
+END
+DMIPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/DMIPreferencePage.java
+END
+SD.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/SD.java
+END
+Volume.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/Volume.java
+END
+BarsPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/BarsPreferences.java
+END
+MAChannels.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MAChannels.java
+END
+Lines.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/Lines.java
+END
+VIDYA.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VIDYA.java
+END
+DPOPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/DPOPreferencePage.java
+END
+ROCPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/ROCPreferencePage.java
+END
+RSIPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/RSIPreferences.java
+END
+UOPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/UOPreferencePage.java
+END
+AccumulationDistributionPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/AccumulationDistributionPreferencePage.java
+END
+VFIPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VFIPreferencePage.java
+END
+MarketThermometerPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MarketThermometerPreferences.java
+END
+CommodityChannelIndexPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/CommodityChannelIndexPreferencePage.java
+END
+SARPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/SARPreferencePage.java
+END
+ATRPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/ATRPreferencePage.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/messages.properties
+END
+BollingerBands.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/BollingerBands.java
+END
+MACDPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MACDPreferences.java
+END
+VT.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VT.java
+END
+VolumePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/eclipsetrader/!svn/ver/381/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/VolumePreferences.java
+END
+MA.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MA.java
+END
+MAOSCPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/eclipsetrader/!svn/ver/402/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/MAOSCPreferencePage.java
+END
+FI.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/FI.java
+END
+AdaptiveStoch.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/eclipsetrader/!svn/ver/542/trunk/net.sourceforge.eclipsetrader.charts/src/net/sourceforge/eclipsetrader/charts/indicators/AdaptiveStoch.java
+END

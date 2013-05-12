@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/eclipsetrader/!svn/ver/555/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs
+END
+CurrencyConversionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/CurrencyConversionDialog.java
+END
+IntradayChartsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/IntradayChartsDialog.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/messages.properties
+END
+TradingOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/TradingOptionsDialog.java
+END
+EventDetailsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/EventDetailsDialog.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/Messages.java
+END
+FeedSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/FeedSelectionDialog.java
+END
+ExchangeRateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/eclipsetrader/!svn/ver/524/trunk/net.sourceforge.eclipsetrader.core/src/net/sourceforge/eclipsetrader/core/ui/dialogs/ExchangeRateDialog.java
+END

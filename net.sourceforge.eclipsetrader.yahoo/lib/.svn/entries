@@ -1,0 +1,41 @@
+8
+
+dir
+782
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader/trunk/net.sourceforge.eclipsetrader.yahoo/lib
+https://eclipsetrader.svn.sourceforge.net/svnroot/eclipsetrader
+
+
+
+2006-04-16T08:05:02.821359Z
+38
+maccaf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e4b1c4-b40d-0410-aae4-a38d893ed1b2
+
+htmlparser.jar
+file
+
+
+
+
+2008-06-21T10:54:08.093750Z
+fe7dffa3fdc73da016c0eea2cbcb71dc
+2006-04-16T08:05:02.821359Z
+38
+maccaf
+has-props
+

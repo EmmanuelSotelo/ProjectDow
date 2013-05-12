@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/eclipsetrader/!svn/ver/541/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal/strategies
+END
+MovingAverageCrossoverStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svnroot/eclipsetrader/!svn/ver/541/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal/strategies/MovingAverageCrossoverStrategy.java
+END
+TripleMovingAverageCrossoverStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svnroot/eclipsetrader/!svn/ver/541/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal/strategies/TripleMovingAverageCrossoverStrategy.java
+END
+FourDownDaysStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/eclipsetrader/!svn/ver/539/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal/strategies/FourDownDaysStrategy.java
+END
+PanicRecoveryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/eclipsetrader/!svn/ver/539/trunk/net.sourceforge.eclipsetrader.ats/src/net/sourceforge/eclipsetrader/ats/internal/strategies/PanicRecoveryStrategy.java
+END
